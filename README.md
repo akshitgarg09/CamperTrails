@@ -1,2 +1,11 @@
 # CamperTrails
-A website for enthusiastic campers where you can explore various campgrounds and share your experience.
+Live website: https://campertrails.herokuapp.com/
+
+# Features:
+
+* Authentication
+* Authorization
+* Create, update, delete the campground
+* Add reviews to campgrounds
+* Flash important messages to warn or greet the users
+* Responsive web design
