@@ -1,5 +1,4 @@
 # CamperTrails
-Live website: https://campertrails.herokuapp.com/
 
 # Features:
 
